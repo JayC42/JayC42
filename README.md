@@ -26,11 +26,7 @@ Here are some ideas to get you started:
 
 <!-- [![Jayce's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=JayC42)](https://github.com/anuraghazra/github-readme-stats) -->
 
-Are you curious about creating an [Odd Number Type](https://dev.to/JayC42/typescript-odd-number-type-1fj)?
 
-Or how to create a deep, type-safe database wrapper like FireSage and Firelord? 
-
-You can find all these knowledge pieces and more in my [articles](https://dev.to/dashboard) on various TypeScript quirks, tips, and techniques.
 
 
 
