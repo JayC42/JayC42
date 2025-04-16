@@ -1,4 +1,4 @@
-## Hi there 👋
+### Hi there, I'm [Jayce!](https://JayC42.github.io),👋
 
 <!--
 **JayC42/JayC42** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,23 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<a href="https://github.com/JayC42/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JayC42&theme=radical&count_private=true" />
+</a>
+<a href="https://github.com/JayC42/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=JayC42&show_icons=true&theme=radical&line_height=27&count_private=true" alt="JayC42's github stats" />
+</a>
+<br/>
+<br/>
+
+<!-- [![Jayce's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=JayC42)](https://github.com/anuraghazra/github-readme-stats) -->
+
+Are you curious about creating an [Odd Number Type](https://dev.to/JayC42/typescript-odd-number-type-1fj)?
+
+Or how to create a deep, type-safe database wrapper like FireSage and Firelord? 
+
+You can find all these knowledge pieces and more in my [articles](https://dev.to/dashboard) on various TypeScript quirks, tips, and techniques.
+
+
+
